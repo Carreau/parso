@@ -73,8 +73,8 @@ Installation
 Future
 ======
 
+- For supporting 3.10+ and the future releases, a PEG parser.
 - There will be better support for refactoring and comments. Stay tuned.
-- There's a WIP PEP8 validator. It's however not in a good shape, yet.
 
 Known Issues
 ============
